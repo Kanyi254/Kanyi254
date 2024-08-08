@@ -6,7 +6,8 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Data Scientist specializing in Data Analysis, visualization, Machine and AI learning. I enjoy Karate, open world games, soccer and cooking.</p>
+    <p>I'm a Data Scientist specializing in Data Analysis, visualization, Machine and AI learning. I enjoy Karate, open world games, soccer and cooking. I did mmy degree but never got my certificate
+    </p>
 </div>
 
 <p align="center">
