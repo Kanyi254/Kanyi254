@@ -14,7 +14,7 @@
 As a data scientist am adapt to programming skills, Excel, Dashboard visualisations, Statistical and predictive Analysis
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanyi254&label=Profile%20views&color=0e75b6&style=flat" alt="Kanyi254" /> </p>
-<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" style="border-radius: 15px;" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
 
 
