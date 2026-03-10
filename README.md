@@ -50,16 +50,18 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kanyi254&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyi254&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="40%" />
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Kanyi254&theme=chartreuse&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanyi254&theme=chartreuse&hide_border=true" alt="Streak" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanyi254&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" />
-</p>
+<div align="center">
+    <h3>🏆 GitHub Trophies</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=Kanyi254&theme=onedark&no-frame=1&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
 
 ---
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Keep+coding...+or+wrangling!+😂" alt="Thanks SVG" />
 </div>
+
